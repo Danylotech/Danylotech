@@ -1,16 +1,16 @@
-## Hi there 👋
+# Danilo Demchenko
 
-<!--
-**Danylotech/Danylotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, ich bin Danilo. Hier sammle und dokumentiere ich meine IT-Projekte, Skripte und mein aktuelles Homelab-Setup. Mein Fokus liegt auf praktischer Systemadministration, Virtualisierung und Netzwerken.
 
-Here are some ideas to get you started:
+### Tech Stack
+* **OS & Hypervisor:** Proxmox VE, Ubuntu Server, Debian, Windows
+* **Netzwerk & Security:** Pi-hole, WireGuard VPN
+* **Services:** Docker, Nextcloud
+* **Tools:** Bash, Git, Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aktuell
+* **[Homelab-Infrastruktur](https://github.com/Danylotech/homelab-infrastruktur):** Doku meiner Proxmox-Umgebung und der Basis-Dienste.
+* Bash-Skripte für alltägliche Admin-Aufgaben *(Work in progress)*
+
+### Kontakt
+* 📫 danilo.demchenko@proton.me
