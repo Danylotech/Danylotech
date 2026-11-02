@@ -3,7 +3,7 @@
 Hi, ich bin Danilo. Hier sammle und dokumentiere ich meine IT-Projekte, Skripte und mein aktuelles Homelab-Setup. Mein Fokus liegt auf praktischer Systemadministration, Virtualisierung und Netzwerken.
 
 ### Tech Stack
-* **OS & Hypervisor:** Proxmox VE, Ubuntu Server, Debian, Windows
+* **OS & Hypervisor:** Proxmox VE, UTM, Ubuntu Server, Debian, Windows
 * **Netzwerk & Security:** Pi-hole, WireGuard VPN
 * **Services:** Docker, Nextcloud
 * **Tools:** Bash, Git, Markdown
